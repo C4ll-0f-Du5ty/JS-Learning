@@ -11,4 +11,8 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    border-style: dashed;
+    border-color: gray;
+    border-bottom-color: #02dada;
+    border-width: 200px;
 }
