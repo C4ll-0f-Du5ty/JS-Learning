@@ -1,0 +1,14 @@
+body {
+    background: #d0b3ee;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+}
+
+h1 {
+    width: 100%;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
