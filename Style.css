@@ -12,7 +12,9 @@ h1 {
     justify-content: center;
     align-items: center;
     border-style: dashed;
-    border-color: gray;
     border-bottom-color: #02dada;
+    border-top-color: aqua;
+    border-right-color: #3655f7;
+    border-left-color: #3655f7;
     border-width: 200px;
 }
