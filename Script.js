@@ -1,5 +1,7 @@
-alert("Let's have A look");
-console.log(55 % 2);
+"use strict";
+
+// alert("Let's have A look");
+// console.log(55 % 2);
 
 function calcAvg(one, two, three) {
     return (one + two + three) / 3
